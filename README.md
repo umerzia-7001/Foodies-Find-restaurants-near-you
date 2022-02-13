@@ -14,14 +14,6 @@
 <br>
 <br>
 
-SwiftUI app for food lovers. Find the first part here on [YouTube](https://www.youtube.com/c/GTokman/videos). <br>
-
-Second Part on my [Patreon](https://www.patreon.com/6ary) page. <br>
-## About
-* Using Combine + URLSession + Codable + SwiftUI
-* AutoComplete endpoint using new `.searchable` modifier and more
-* MapKit + CoreLocation
-* UI and Figma overview
 
 ## Get Started
 
@@ -30,7 +22,4 @@ Second Part on my [Patreon](https://www.patreon.com/6ary) page. <br>
 3. Sign up for the Yelp API here: https://www.yelp.com/developers
 4. Check out the YouTube video to start building the app.
 
-## External Dependency 
-* ExtensionKit - https://github.com/gtokman/ExtensionKit
-* Swiftgen is used to generate images and strings. Run `swiftgen` from the project root to regenerate the assets.
   
