@@ -1,0 +1,14 @@
+"Get Started" = "permission.button.title";
+"Find new cool spots to eat" = "permission.desc.text";
+"Foodee" = "permission.title.text";
+
+"Search food..." = "home.placeholder.text";
+"Categories" = "home.cat.title";
+"Coffee" = "home.cat.coffee.text";
+"Beer" = "home.cat.beer.text";
+"All" = "home.cat.all.text";
+"Donuts" = "home.cat.donuts.text";
+"Ice Cream" = "home.cat.icecream.text";
+"Breakfast" = "home.cat.breakfast.text";
+
+"Favorites" = "detail.nav.title";

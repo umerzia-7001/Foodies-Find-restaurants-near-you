@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CombineExpectations",
+        "repositoryURL": "https://github.com/groue/CombineExpectations.git",
+        "state": {
+          "branch": null,
+          "revision": "04d4e4b21c9e8361925f03f64a7ecda89ef9974f",
+          "version": "0.10.0"
+        }
+      },
+      {
+        "package": "ExtensionKit",
+        "repositoryURL": "https://github.com/gtokman/ExtensionKit.git",
+        "state": {
+          "branch": null,
+          "revision": "24a0f9726c56f8d0a50c41261a4b29e46693bff9",
+          "version": "1.20.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
