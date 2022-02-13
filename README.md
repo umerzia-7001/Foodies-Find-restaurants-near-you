@@ -8,6 +8,6 @@
 1. Clone the repo 
 2. Open the app in the latest version of Xcode.
 3. Sign up for the Yelp API here: https://www.yelp.com/developers
-4. Check out the YouTube video to start building the app.
+4. Replace the api key in Services/YelpApiService file.
 
   
